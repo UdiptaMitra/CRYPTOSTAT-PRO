@@ -1,0 +1,8 @@
+fpdf==1.7.2
+fpdf2==2.8.7
+matplotlib==3.10.9
+pyfiglet==1.0.4
+pytest==9.0.3
+Requests==2.34.2
+tabulate==0.10.0
+c
